@@ -1,0 +1,2 @@
+(this["webpackJsonpwm1-react-starter-project-forked-mycopy"]=this["webpackJsonpwm1-react-starter-project-forked-mycopy"]||[]).push([[0],[function(t,e){}],[[0,1]]]);
+//# sourceMappingURL=main.ea75f2c4.chunk.js.map
